@@ -27,8 +27,8 @@ Route::post('/login', [LoginController::class, 'loginMahasiswaProses'])->name('l
 
 Route::get('/h/mahasiswa', [HomeMahasiswaController::class, 'index'])->name('indexMahasiswa.show');
 
-Route::get('/h/mahasiswa/1', [BeaKIPController::class, 'index'])->name('indexBeaKIP.show');
-Route::post('/h/mahasiswa/1', [BeaKIPController::class, 'tambah'])->name('tambahBeaKIP.proses');
+Route::get('/h/mahasiswa/8', [BeaKIPController::class, 'index'])->name('indexBeaKIP.show');
+Route::post('/h/mahasiswa/8', [BeaKIPController::class, 'tambah'])->name('tambahBeaKIP.proses');
 
 Route::get('/h/mahasiswa/hasil', [HomeMahasiswaController::class, 'hasil'])->name('hasilMahasiswa.show');
 
