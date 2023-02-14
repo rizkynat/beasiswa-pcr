@@ -1,5 +1,5 @@
 
-<p align="center"><img width=20% src="https://raw.githubusercontent.com/rizkynat/BeasiswaPCR/master/public/storage/pcr.png"></p>
+<p align="center"><img width=20% src="https://raw.githubusercontent.com/rizkynat/BeasiswaPCR/master/public/pcr.png"></p>
 
 # Basic Overview
 
